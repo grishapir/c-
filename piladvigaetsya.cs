@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class piladvigaetsya : MonoBehaviour
 {
+    GameObject player;
     public GameObject pila;
     GameObject[] a;
     int speed;
@@ -39,3 +40,4 @@ public class piladvigaetsya : MonoBehaviour
         }
     }
 }
+
