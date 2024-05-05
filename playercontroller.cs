@@ -8,6 +8,8 @@ public class playercontroller : MonoBehaviour
     public float speed = 0.6f;
     private Vector3 per;
     GameObject player;
+    GameObject net;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -25,4 +27,11 @@ public class playercontroller : MonoBehaviour
         per.z = Input.GetAxis("Vertical");
         rb.MovePosition(rb.position + per * speed * Time.deltaTime);
     }
+    /*private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.tag == "coins")
+        {
+            Destroy();
+        }
+    }*/
 }
