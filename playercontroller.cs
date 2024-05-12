@@ -9,6 +9,8 @@ public class playercontroller : MonoBehaviour
     private Vector3 per;
     GameObject player;
     GameObject net;
+    int score = 0;
+
 
     // Start is called before the first frame update
     void Start()
@@ -26,12 +28,18 @@ public class playercontroller : MonoBehaviour
     {
         per.z = Input.GetAxis("Vertical");
         rb.MovePosition(rb.position + per * speed * Time.deltaTime);
+        if (score == 100)
+        {
+            Destroy(gameObject);
+            print("You win");
+        }
     }
-    /*private void OnCollisionEnter(Collision collision)
+    private void OnCollisionEnter(Collision collision)
     {
         if (collision.gameObject.tag == "coins")
         {
-            Destroy();
+            score++;
+            print(score);
         }
-    }*/
+    }
 }
