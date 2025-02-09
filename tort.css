@@ -1,0 +1,48 @@
+body{
+    background-color: #FAEBD7;
+
+}
+h1{
+    color: #A0522D;
+    font-size: 40px;
+    	
+}
+.description{
+    color: #CD853F;
+    font-size: 25px;
+}
+.recept{
+    font-size: 20px;
+}
+button:hover{
+    transform:scale(1.1);
+}
+button{
+    width: fit-content;
+    height: fit-content;
+    cursor: pointer;
+    outline: none;
+    background:  #A52A2A;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 4px;
+    transition: all 0.2s ease;
+}
+.item{
+    background-color: #DEB887;
+    border: 1px solid red;
+    box-shadow: 0 1px 3px red;
+    padding: 20px;
+    transition: all 0.2s ease;
+    margin-left: 10px;
+}
+.item:hover{
+    transform: scale(1.05);
+}
+.list{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center ;
+    margin: auto;
+    max-width: 900px;
+}
