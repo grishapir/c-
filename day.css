@@ -1,0 +1,22 @@
+.nachalo{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.dayl{
+    background-color: blue;
+    width: 300px;
+    height: 200px;
+}
+.vecher{
+    background-color: blueviolet;
+    margin-left: 10px;
+    width: 300px;
+    height: 200px;
+}
+.neday{
+    background-color: bisque;
+    margin-left: 10px;
+    width: 300px;
+    height: 200px;
+}

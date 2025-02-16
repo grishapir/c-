@@ -1,0 +1,29 @@
+body{
+    background-color: rgba(33, 33, 33, 1);
+}
+.shapka{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: white;
+    margin-top: 46px;
+    margin-bottom: 46px;
+    font-size: 14px;
+}
+.logo img{
+    width: 129;
+    height: 18;
+    margin-top: 10px;
+}
+.verx{
+    display: flex;
+    flex-direction: row;
+    margin-right: 400px;
+    justify-content: space-between;
+}
+.verx p{
+    padding-right: 65px;
+}
+.tel{
+    margin-right: 360px;
+}
