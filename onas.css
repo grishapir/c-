@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    color: white;
+    background-color: grey;
+}
+
+header{
+    background-color: black;
+    color: white;
+    height: 100px;
+}
+.golova{
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+}
+header h1{
+    margin-left: 50px;
+}
+.o{
+    margin-left: 50px;
+    font-size: 25px;
+}
+.menu{
+    margin-left: 50px;
+    font-size: 25px;
+}
+footer{
+    background-color: black;
+    color: white;
+    height: 100px;
+    margin-top: 100px;
+}
+.podval{
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+}
+.s{
+    margin-left: 50px;
+    font-size: 15px;
+}
+.deti{
+    margin-left: 800px;
+    font-size: 15px;
+}
+main{
+    
+    font-size: larger;
+    
+}
+main h2{
+    text-align: center;
+}
+.nas{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.geo{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.denigi{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.text1{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.text2{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.text3{
+    margin-left: 50px;
+    margin-right: 50px;
+}
