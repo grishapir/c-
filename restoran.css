@@ -1,0 +1,296 @@
+.i{
+	width: 100px;
+    text-decoration: none;
+    color: blue;
+}
+header{
+    background-color: black;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    left:0px;
+    
+    margin-bottom: 20px;
+}
+.o{
+    text-decoration: none;
+    color: rgb(255, 255, 255)
+}
+
+.pr{
+    display: flex;
+    flex-wrap: wrap;
+}
+.p{
+    width: auto;
+    height: 140px;
+}
+.img{
+    position: absolute;
+    top: 300px;
+    height: 200px;
+    width: 200px;
+    left:200px;
+}
+.po{
+    position: absolute;
+    top: 180px;
+    left: 40px;
+}
+.pi{
+    position: absolute;
+    left: 40px;
+    color:rgb(107, 109, 109)
+}
+.lp{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    width: 100px;
+    height: 1000px;
+    top: 300px;
+    left: 40px;
+}
+.io{
+    width: auto;
+    position: absolute;
+    left: 50px;
+  height: 50px;
+  border-radius: 15px;
+  background-color: Snow;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.6s;
+}
+.oi{
+    position: absolute;
+    right: 75px;
+}
+button:hover{background-color: rgb(97, 97, 97);}
+
+.img2{
+    position: absolute;
+    top: 300px;
+    height: 200px;
+    width: 200px;
+    left:600px;
+}
+.lk{
+    width: 220px;
+    height: 220px;
+}
+.po2{
+    position: absolute;
+    top: 180px;
+    left: 40px;
+}
+.pi2{
+    position: absolute;
+    left: 40px;
+    color:rgb(107, 109, 109)
+}
+.lp2{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    width: 100px;
+    top: 300px;
+    left: 40px;
+}
+.io2{
+    width: auto;
+    position: absolute;
+    left: 50px;
+  height: 50px;
+  border-radius: 15px;
+  background-color: Snow;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.6s;
+}
+.oi2{
+    position: absolute;
+    right: 75px;
+}
+button:hover{background-color: rgb(97, 97, 97);}
+
+.img3{
+    position: absolute;
+    top: 300px;
+    height: 200px;
+    width: 200px;
+    left:1000px;
+}
+.lk2{
+    width: 220px;
+    height: 220px;
+}
+.po3{
+    position: absolute;
+    top: 180px;
+    left: 40px;
+}
+.pi3{
+    position: absolute;
+    left: 40px;
+    color:rgb(107, 109, 109)
+}
+.lp3{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    width: 100px;
+    top: 300px;
+    left: 40px;
+}
+.io3{
+    width: auto;
+    position: absolute;
+    left: 50px;
+  height: 50px;
+  border-radius: 15px;
+  background-color: Snow;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.6s;
+}
+.oi3{
+    position: absolute;
+    right: 75px;
+}
+button:hover{background-color: rgb(97, 97, 97);}
+
+.img3{
+    position: absolute;
+    top: 300px;
+    height: 200px;
+    width: 200px;
+    left:1000px;
+}
+.lk2{
+    width: 220px;
+    height: 220px;
+}
+.po3{
+    position: absolute;
+    top: 180px;
+    left: 40px;
+}
+.pi3{
+    position: absolute;
+    left: 40px;
+    color:rgb(107, 109, 109)
+}
+.lp3{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    width: 100px;
+    top: 300px;
+    left: 40px;
+}
+.io3{
+    width: auto;
+    position: absolute;
+    left: 50px;
+  height: 50px;
+  border-radius: 15px;
+  background-color: Snow;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.6s;
+}
+.oi3{
+    position: absolute;
+    right: 75px;
+}
+button:hover{background-color: rgb(97, 97, 97);}
+
+.img4{
+    position: absolute;
+    top: 800px;
+    height: 200px;
+    width: 200px;
+    left:200px;
+}
+.lk3{
+    width: 220px;
+    height: 220px;
+}
+.po4{
+    position: absolute;
+    top: 180px;
+    left: 40px;
+}
+.pi4{
+    position: absolute;
+    left: 40px;
+    color:rgb(107, 109, 109)
+}
+.lp4{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    width: 100px;
+    top: 300px;
+    left: 40px;
+}
+.io4{
+    width: auto;
+    position: absolute;
+    left: 50px;
+  height: 50px;
+  border-radius: 15px;
+  background-color: Snow;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.6s;
+}
+.oi4{
+    position: absolute;
+    right: 75px;
+}
+button:hover{background-color: rgb(97, 97, 97);}
+
+.img5{
+    position: absolute;
+    top: 800px;
+    height: 200px;
+    width: 200px;
+    left:600px;
+}
+.lk4{
+    width: 220px;
+    height: 220px;
+}
+.po5{
+    position: absolute;
+    top: 180px;
+    left: 40px;
+}
+.pi5{
+    position: absolute;
+    left: 40px;
+    color:rgb(107, 109, 109)
+}
+.lp5{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    width: 100px;
+    top: 300px;
+    left: 40px;
+}
+.io5{
+    width: auto;
+    position: absolute;
+    left: 50px;
+  height: 50px;
+  border-radius: 15px;
+  background-color: Snow;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.6s;
+}
+.oi5{
+    position: absolute;
+    right: 75px;
+}
+button:hover{background-color: rgb(97, 97, 97);}
+
+
+
