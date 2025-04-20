@@ -1,0 +1,47 @@
+header{
+    background-color: rgba(37, 37, 37, 1);
+    display: flex;
+    flex-wrap: wrap;
+}
+header h1{
+    color: white;
+    font-size: 24px;
+}
+.fimg{
+    height: 75px;
+    width: 75px;
+}
+.simg{
+    height: 50px;
+    width: 160px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    margin-top: 12px;
+}
+.ot{
+    margin-left: 636px;
+    margin-top: 10px;
+}
+.Bl{
+    margin-left: 70px;
+    margin-top: 10px;
+}
+.pp{
+    text-align: center;
+}
+.pp h2{
+    font-size: 61px;
+}
+.pp p{
+    margin-top: -20px;
+    font-size: 152px;
+}
+.ra{
+    text-align: center;
+}
+.at{
+    font-size: 45px;
+}
+.Top{
+    font-size: 30px;
+}
