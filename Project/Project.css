@@ -45,3 +45,32 @@ header h1{
 .Top{
     font-size: 30px;
 }
+.fu{
+    margin-left: 9%;
+}
+.ly{
+    margin-left: 20%;
+}
+.le{
+    margin-left: 20%;
+}
+.cho{
+    margin-left: 15%;
+}
+.ss{
+    font-size: 24px;
+}
+.fs p{
+    position: absolute;
+    font-size: 62px;
+    color: white;
+    margin-top: -35%;
+    margin-left: 37%;
+}
+.fs h1{
+    position: absolute;
+    font-size: 62px;
+    color: white ;
+    margin-top: -45%;
+    margin-left: 22%;
+}
