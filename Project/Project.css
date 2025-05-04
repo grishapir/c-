@@ -38,12 +38,14 @@ header h1{
 }
 .ra{
     text-align: center;
+    margin-top: -30px;
 }
 .at{
     font-size: 45px;
 }
 .Top{
     font-size: 30px;
+    padding-bottom: 40px;
 }
 .fu{
     margin-left: 9%;
@@ -73,4 +75,38 @@ header h1{
     color: white ;
     margin-top: -45%;
     margin-left: 22%;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+.firstf{
+    display: flex;
+    flex-wrap: wrap;
+}
+.secondf{
+    display: flex;
+    flex-wrap: wrap;
+}
+.e{
+    margin-left: 45px;
+}
+.t{
+    margin-left: 120px;
+}
+.bt{
+    margin-left: 120px;
+}
+.a{
+    margin-left: 45px;
+}
+footer img{
+    margin-top: 10px;
+    margin-left: 4px;
+}
+.ern{
+    margin-left: 160px;
+}
+.b{
+    margin-left: 240px;
 }
