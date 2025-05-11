@@ -110,3 +110,47 @@ footer img{
 .b{
     margin-left: 240px;
 }
+.card{
+    
+    text-align: center;
+    width: 150px;
+    height: 200px;
+    border: 1px solid black;
+}
+.card p{
+    margin: 10px;
+    border: 0px;
+    padding: 0px;
+    font-size: 18px;
+}
+.card:hover{
+    box-shadow: 0px 0px 20px 7px rgba(3, 5, 6, 0.17);
+    animation-duration: 0.2s;
+    animation-delay: 0.2s;
+    transform: translateY(2px);
+}
+.firstline{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 50px;
+}
+.secondline{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 50px;
+}
+.ss h1{
+    color: green;
+    font-size: 30px;
+    margin-left: 50px;
+}
+.thirdline{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 50px;
+}
+.fourthline{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 50px;
+}
